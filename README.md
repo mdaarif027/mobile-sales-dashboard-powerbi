@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Power BI dashboard analyzes mobile sales performance across different cities, brands, mobile models, and payment methods. The dashboard helps track key business metrics and identify sales trends.
+This Power BI dashboard analyzes mobile sales performance across different cities, brands, mobile models, and payment methods. It provides insights into sales trends, customer purchasing behavior, and brand performance through interactive visualizations and KPI tracking.
 
 ## Tools Used
 
