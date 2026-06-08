@@ -27,16 +27,17 @@ This Power BI dashboard analyzes mobile sales performance across different citie
 - MTD (Month-to-Date) Report
 - Same Period Last Year Comparison
 
+
 ## Dashboard Preview
 
 ### Overview Dashboard
 
-(Upload screenshot and add here)
+![Overview Dashboard](dashboard.jpeg)
 
 ### MTD Report
 
-(Upload screenshot and add here)
+![MTD Report](Mtd Report.jpeg)
 
 ### Same Period Last Year
 
-(Upload screenshot and add here)
+![Same Period Last Year](Same Period Last Year.jpeg)
