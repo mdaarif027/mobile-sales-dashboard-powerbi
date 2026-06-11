@@ -2,37 +2,48 @@
 
 ## Project Overview
 
-This Power BI dashboard analyzes mobile sales performance across different cities, brands, mobile models, and payment methods. It provides insights into sales trends, customer purchasing behavior, and brand performance through interactive visualizations and KPI tracking.
+Developed an interactive Power BI dashboard to analyze mobile phone sales performance across multiple cities, brands, and product categories. The dashboard provides actionable insights into sales trends, customer purchasing behavior, payment preferences, and overall business performance through dynamic visualizations and KPI tracking.
 
-## Tools Used
+## Tools & Technologies
 
-- Power BI
-- Excel
-- DAX
+* Power BI
+* DAX
+* Power Query
+* Microsoft Excel
 
-## Key Metrics
+## Key KPIs
 
-- Total Sales
-- Total Transactions
-- Average Price
-- Total Quantity Sold
+* Total Sales
+* Total Transactions
+* Total Quantity Sold
+* Average Selling Price
+* Month-to-Date (MTD) Sales Performance
+* Same Period Last Year (SPLY) Comparison
 
 ## Dashboard Features
 
-- City-wise Sales Analysis
-- Brand-wise Performance Analysis
-- Monthly Sales Trends
-- Mobile Model Performance
-- Payment Method Analysis
-- MTD (Month-to-Date) Report
-- Same Period Last Year Comparison
+* City-wise Sales Analysis
+* Brand-wise Performance Tracking
+* Mobile Model Performance Analysis
+* Monthly Sales Trend Monitoring
+* Payment Method Distribution Analysis
+* Interactive Filters and Slicers
+* MTD Performance Reporting
+* Year-over-Year Sales Comparison
 
+## Key Business Insights
 
-## Dashboard Preview
+* Identified top-performing mobile brands and models.
+* Analyzed sales contribution across different cities.
+* Evaluated customer payment preferences and transaction patterns.
+* Monitored monthly sales growth and seasonal trends.
+* Compared current sales performance with the same period of the previous year.
+
+## Dashboard Screenshots
 
 ### Overview Dashboard
 
-![Overview Dashboard](dashboard.jpeg)
+![Overview Dashboard](Overview Dashboard.jpeg)
 
 ### MTD Report
 
